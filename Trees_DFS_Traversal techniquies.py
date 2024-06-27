@@ -1,4 +1,10 @@
 #Tree
+                                   1
+                                /     \
+                              2         3
+                           /    \     /    \
+                          4      5   6      7
+#Traversal techniques for Tree                                  
 class node:
     def __init__(self,data):
         self.value=data
